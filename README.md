@@ -1,7 +1,5 @@
 # Permissions Analyzer
 
-# Permissions Analyzer
-
 ## Overview
 Permissions Analyzer is a Python-based tool designed to extract and display the permissions requested by an Android APK file. Using the powerful [Androguard](https://github.com/androguard/androguard) library, this tool categorizes permissions into dangerous and other permissions, providing a structured and detailed output for analysis. Permissions can be displayed directly on the terminal or saved to a file for future reference.
 
